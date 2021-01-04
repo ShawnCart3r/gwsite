@@ -1,0 +1,31 @@
+.color{
+    color: white;
+}
+#side{
+    margin-left: 100px;
+}
+
+.size{
+    width: 10%;
+}
+
+.mid{
+    text-align: center;
+}
+
+h8{
+    font-size: large;
+    font-weight: bold;
+}
+
+h10{
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 100px;
+    
+}
+
+.prod{
+    text-align: center;
+}
